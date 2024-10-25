@@ -3,7 +3,7 @@ const secBtns = document.querySelectorAll('.controls');
 const secBtn = document.querySelectorAll('.control');
 const allSections = document.querySelector('.main-content');
 
-///ayoooo
+///ayoooo working??
 function pageTransitions() {
     /*BUTTON CLICK ACTIVE CLASS...also add className to ur notes*/
     for (let i = 0; i < secBtn.length; i++) {
