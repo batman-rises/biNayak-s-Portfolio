@@ -1,0 +1,27 @@
+1.control btn$ * 5   ????
+
+2.Research on this root shit, TAKE NOTES ON FONT AWESOME AS WELL!!*/
+:root {
+    --color-primary: #191d2b;
+
+3.color: inherit;
+    font-family: inherit;
+
+4.transform: translateY(0) scale(1);
+
+5./*RESEARCH ON THIS ANIMATION*/
+    display: block;
+    animation: scaleAnim 2s ease-in-out;
+
+    @keyframes scaleAnim {
+        0% {
+            transform: translateY(-100%) scaleY(0);
+        }
+
+        100% {
+            transform: translateY(0) scaleY(1);
+        }
+
+6.z-index:
+
+!important
